@@ -100,8 +100,8 @@ This architecture can be implemented with the following code
 API
 ===
 
-- Input distributions can be found in `distributions.py <./torchspn/distributions.py>`.
-- Sum and Product layers can be found in `layers.py <./torchspn/layers.py>`.
+- Input distributions can be found in `distributions.py <./torchspn/distributions.py>`_.
+- Sum and Product layers can be found in `layers.py <./torchspn/layers.py>`_.
 
 Layerwise Principle
 ===================
