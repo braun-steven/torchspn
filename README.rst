@@ -6,13 +6,10 @@ torchspn - A PyTorch Layerwise Sum-Product Network Framework
 
 Installation
 ------------
-torchspn is available on PyPi and can be installed via
 
-.. code:: bash
+`torchspn` is now included into `SPFlow <https://github.com/SPFlow/SPFlow>`_
 
-    $ pip install torchspn
 
-:Latest version: :code:`0.1.0`
 
 Quick Start
 -----------
