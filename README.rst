@@ -2,6 +2,8 @@
 torchspn - A PyTorch Layerwise Sum-Product Network Framework
 ============================================================
 
+NOTE: This idea of this implementation has been reworked and further optimized in [EinsumNetworks](https://github.com/cambridge-mlg/EinsumNetworks).
+
 :code:`torchspn` provides an efficient PyTorch layerwise implementation of Sum-Product Networks.
 
 Installation
